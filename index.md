@@ -2,34 +2,34 @@
 
 Welcome to the **Language, Attention, Memory, and Aging (LAMA) Laboratory** at the University of Utah.
 
-### Markdown
+### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
-```markdown
-Syntax highlighted code block
+### People
 
-# Header 1
-## Header 2
-### Header 3
+#Director: 
+Brennan R. Payne, Ph.D . 
+Assistant Professor of Cognition and Neural Science
+Department of Psychology
+University of Utah
 
-- Bulleted
-- List
+#LAMA Lab Members:
+TBA
 
-1. Numbered
-2. List
+### Publications
 
-**Bold** and _Italic_ and `Code` text
+Click here[brennanpayne.weebly.com/publications.html] for links to publications
 
-[Link](url) and ![Image](src)
-```
+### Methods
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cognitive Electrophysiology
+Eye Tracking and Pupillometry
+Behavior and Memory
+Interventions, Training, and RCTs
 
-### Jekyll Themes
+### Join the Lab
+TBA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/payne12/lama.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Participate in Research
+TBA
