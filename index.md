@@ -13,7 +13,7 @@ Brennan R. Payne, PhD   
 Assistant Professor of Cognition and Neural Science    
 Department of Psychology  
 University of Utah  
-[website](http://brennanpayne.com)
+[website](http://brennanpayne.com)  
 e-mail: Brennan DOT Payne AT Utah DOT edu
 
 ### LAMA Lab Members:
