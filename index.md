@@ -4,13 +4,14 @@ Welcome to the **Language, Attention, Memory, and Aging (LAMA) Laboratory** at t
 
 ## Research
 
-Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Research in the LAMA lab, housed in the [Department of Psychology](http://psych.utah.edu) at the University of Utah, is centered on understanding the nature of language and memory systems across the adult lifespan, how these systems are modulated by attention, and how these sytems are functionally organized within the human brain. Our lab adopts an interdisciplinary and multi-method approach to this work, merging theoretical models from the cognitive sciences, gerontology, neuroscience, linguistics, and quantitative and experimental psychology, as well as a range of methods (experimental, correlational, and longitudinal) and measures of brain activity (e.g., event-related brain potentials [ERPs]), performance (eye-tracking, reaction time, memory performance), and physiology (e.g., pupillary response). 
+
 
 ## People
 
 ### Director: 
-Brennan R. Payne, PhD    
-Assistant Professor of Cognition and Neural Science    
+Brennan R. Payne, PhD  
+Assistant Professor of Cognition and Neural Science  
 Department of Psychology  
 University of Utah  
 [website](http://brennanpayne.com)  
