@@ -9,10 +9,12 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lore
 ### People
 
 # Director: 
-[Brennan R. Payne, Ph.D] (http://brennanpayne.com)     
+Brennan R. Payne, PhD    
 Assistant Professor of Cognition and Neural Science    
 Department of Psychology  
 University of Utah  
+[website](http://brennanpayne.com)
+e-mail: Brennan DOT Payne AT Utah DOT edu
 
 # LAMA Lab Members:
 TBA
