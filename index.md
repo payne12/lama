@@ -8,25 +8,25 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lore
 
 ### People
 
-#Director: 
-Brennan R. Payne, Ph.D . 
-Assistant Professor of Cognition and Neural Science
-Department of Psychology
-University of Utah
+# Director: 
+[Brennan R. Payne, Ph.D] (http://brennanpayne.com)     
+Assistant Professor of Cognition and Neural Science    
+Department of Psychology  
+University of Utah  
 
-#LAMA Lab Members:
+# LAMA Lab Members:
 TBA
 
 ### Publications
 
-Click here[brennanpayne.weebly.com/publications.html] for links to publications
+[Click here](http://brennanpayne.weebly.com/publications.html) for links to publications.
 
 ### Methods
 
-Cognitive Electrophysiology
-Eye Tracking and Pupillometry
-Behavior and Memory
-Interventions, Training, and RCTs
+Cognitive Electrophysiology  
+Eye Tracking and Pupillometry  
+Behavior and Memory  
+Interventions, Training, and RCTs  
 
 ### Join the Lab
 TBA
